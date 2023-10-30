@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Freelance developer specialising in small businesses and startups.
+Freelance engineer specialising in startup and small business development and strategy. 
