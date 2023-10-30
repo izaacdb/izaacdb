@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Freelance engineer specialising in startup and small business development and strategy. 
 
 With over 12 years as a software engineer, I've led innovative projects for brands like H&M, Lloyds Bank, and Mercedes Benz. From transforming old-school factories with modern automation to architecting e-commerce solutions for global brands, my tech stack ranges from JavaScript, React, and Node to robust cloud solutions with AWS. Recognized twice as a Freelancer of the Year nominee, I not only code but provide strategic insights to teams, ensuring products are not just functional but are market-ready. Whether you're a startup looking for a tech lead or a business needing a digital revamp, I've got the experience to bring your vision to life.
 
