@@ -20,9 +20,6 @@ With over 12 years as a software engineer, I've led innovative projects for bran
 
 Get in touch, or reach out to me at my business - Jackdaw Technology Group. jackdawtech.co.uk
   
-  
----
-  
    
 > Congratulations to everyone on the team that won this client recognition:
 > “You are the most amazing team…the **highest performing team I ever have had the pleasure to work in**…”  
