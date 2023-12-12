@@ -20,10 +20,8 @@ With over 12 years as a software engineer, I've led innovative projects for bran
 
 Get in touch, or reach out to me at my business - Jackdaw Technology Group. jackdawtech.co.uk
 
----
+“Izaac fixed our AWS stability issues while developing some outstanding software solutions for our factories. He’s an excellent communicator and has an eye for detail. **Highly recommended**.”
+Jonathan Haskins, Director, Get Laid Beds.
 
-“Izaac fixed our AWS stability issues while developing some outstanding software solutions for our factories. He’s an excellent communicator and has an eye for detail. *Highly recommended*.”
-- Jonathan Haskins, Director, Get Laid Beds.
-
-“This was an unusually challenging project, and we were able to *trust and rely* on Izaac to stay focused and deliver the end experience on time.”
-- Michael Carlisle, Group Technical Director, AKQA.
+“This was an unusually challenging project, and we were able to **trust and rely** on Izaac to stay focused and deliver the end experience on time.”
+Michael Carlisle, Group Technical Director, AKQA.
