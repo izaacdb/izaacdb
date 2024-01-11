@@ -34,4 +34,5 @@ Ajaz Ahmed, CEO AKQA
 > Jonathan Haskins, Director & Founder, Get Laid Beds
 
   
-> A huge well done and thank you for all your **hard work** and late nights that went into the development of the platform & all content for The Source launch today.  > Sam Williams-Thomas, CEO, OgilvyOne
+> A huge well done and thank you for all your **hard work** and late nights that went into the development of the platform & all content for The Source launch today.
+> Sam Williams-Thomas, CEO, OgilvyOne
