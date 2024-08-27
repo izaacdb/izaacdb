@@ -38,4 +38,5 @@ Ajaz Ahmed, CEO AKQA
 > Sam Williams-Thomas, CEO, OgilvyOne
 
 > Izaac's ability to immerse himself in the AI problem space and propose thoughtful solutions, such as implementing a voice activity detection algorithm, showcases his potential to thrive in environments that prioritise code quality and innovation in cutting-edge fields. I would gladly work with Izaac again and highly recommend him.
+> 
 > Jon Yardley, Technical Director, Red Badger
