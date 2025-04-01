@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-With over 13 years as a software engineer, I've led projects for brands like Lloyds, British Airways and Google. Recognized twice as a Freelancer of the Year nominee, I code, provide strategic and ensuring products are not just functional but delivered on time. 
+With over 14 years as a software engineer, I've led projects for brands like Lloyds, British Airways and Google. Recognized twice as a Freelancer of the Year nominee, I code, provide strategic and ensuring products are not just functional but delivered on time. 
 
 Get in touch, or reach out to me at my business - Jackdaw Technology Group. jackdawtech.co.uk
   
