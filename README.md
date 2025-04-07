@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 #### References and reviews
 
-> Izaac consistently delivered high-quality, end-to-end features that made a tangible impact across our projects. He would be an excellent addition to any team.
+> Izaac consistently delivered **high-quality, end-to-end features that made a tangible impact** across our projects. He would be **an excellent addition to any team**.
 >
 > Zahid Ahmed, Lead Developer
 
