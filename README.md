@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-A lead full stack engineer with 14 years commercial experience. Two time nominee for the Freelancer of the Year awards. Delivered projects for Google, Lloyds, Barclays, British Airways and H&M.
+#### A lead full stack engineer with 14 years commercial experience. Two time nominee for the Freelancer of the Year awards. Delivered projects for Google, Lloyds, Barclays, British Airways and H&M.
 
 [Izaac Broadbent CV](https://izaacbroadbent.com)
 
-Get in touch, or reach out to me at my business - Jackdaw Technology Group. 
+#### Get in touch, or reach out to me at my business - Jackdaw Technology Group. 
 
 [Jackdaw Tech](https://jackdawtech.co.uk)
 
+#### References and reviews
 
 > Izaac consistently delivered high-quality, end-to-end features that made a tangible impact across our projects. He would be an excellent addition to any team.
 >
