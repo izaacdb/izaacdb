@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-#### A lead full stack engineer with 14 years commercial experience. Two time nominee for the Freelancer of the Year awards. Delivered projects for Google, Lloyds, Barclays, British Airways and H&M.
+#### A lead full stack engineer with 14 years commercial experience. Two time nominee for the Freelancer of the Year awards. Delivered projects for Google, Lloyds, Barclays, British Airways, the British Council and H&M.
 
 [Izaac Broadbent CV](https://izaacbroadbent.com)
 
