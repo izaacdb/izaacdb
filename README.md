@@ -20,7 +20,9 @@ A lead full stack engineer with 14 years commercial experience. Two time nominee
 
 [Izaac Broadbent CV](https://izaacbroadbent.com)
 
-Get in touch, or reach out to me at my business - Jackdaw Technology Group. jackdawtech.co.uk
+Get in touch, or reach out to me at my business - Jackdaw Technology Group. 
+
+[Izaac Broadbent CV](https://jackdawtech.co.uk)
 
 
 > Izaac consistently delivered high-quality, end-to-end features that made a tangible impact across our projects. He would be an excellent addition to any team.
