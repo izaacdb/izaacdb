@@ -26,35 +26,35 @@ Here are some ideas to get you started:
 
 #### References and reviews
 
-> Izaac implemented an **LLM-backed pipeline** for YunoJuno, which has seen freelancer **onboarding times drastically reduced**. It was a very experimental feature and **Izaac handled it well**.
+> “Izaac implemented an **LLM-backed pipeline** for YunoJuno, which has seen freelancer **onboarding times drastically reduced**. It was a very experimental feature and **Izaac handled it well**.”
 >
-> Darian Moody, CTO, YunoJuno
+>  — Darian Moody, CTO, YunoJuno
 
-> Izaac consistently delivered **high-quality, end-to-end features that made a tangible impact** across our projects. He would be **an excellent addition to any team**.
+> “Izaac consistently delivered **high-quality, end-to-end features that made a tangible impact** across our projects. He would be an **excellent addition to any team**."
 >
-> Zahid Ahmed, Lead Developer, CDP
+>  — Zahid Ahmed, Lead Developer, CDP
    
-> Congratulations to everyone on the team that won this client recognition:
-> “You are the most amazing team…the **highest performing team I ever have had the pleasure to work in**…”
+> “Congratulations to everyone on the team that won this client recognition:
+> “You are the most amazing team… the **highest performing team I ever have had the pleasure to work in**…”
 > 
-> Ajaz Ahmed, CEO AKQA
+>  — Ajaz Ahmed, CEO AKQA
 
   
-> This was an unusually challenging project, and we were able to **trust and rely on Izaac** to stay focused and deliver the end experience on time.
+> “This was an unusually challenging project, and we were able to **trust and rely on Izaac** to stay focused and deliver the end experience on time.”
 > 
-> Michael Carlisle, Group Technical Director, AKQA.
+>  — Michael Carlisle, Group Technical Director, AKQA.
 
   
-> Izaac fixed our AWS stability issues while developing some **outstanding software solutions** for our factories. He’s an excellent communicator and has an eye for detail. **Highly recommended**.
+> “Izaac fixed our AWS stability issues while developing some **outstanding software solutions** for our factories. He's an **excellent communicator** and has an **eye for detail**. Highly recommended.”
 > 
-> Jonathan Haskins, Director & Founder, Get Laid Beds
+>  — Jonathan Haskins, Director, Get Laid Beds
 
   
-> A huge well done and thank you for all your **hard work** and late nights that went into the development of the platform & all content for The Source launch today.
+> “A huge well done and thank you for all your **hard work** and late nights that went into the development of the platform & all content for The Source launch today.”
 > 
-> Sam Williams-Thomas, CEO, OgilvyOne
+>  — Sam Williams-Thomas, CEO, OgilvyOne
 
 
-> Izaac's ability to immerse himself in the AI problem space and propose thoughtful solutions, such as implementing a voice activity detection algorithm, showcases his potential to thrive in environments that prioritise code quality and innovation in cutting-edge fields. I would gladly work with Izaac again and highly recommend him.
+> “Izaac's ability to immerse himself in the AI problem space and propose thoughtful solutions, such as implementing a voice activity detection algorithm, showcases his potential to thrive in environments that prioritise code quality and innovation in cutting-edge fields. I would gladly work with Izaac again and highly recommend him.”
 > 
-> Jon Yardley, Technical Director, Red Badger
+>  — Jon Yardley, Technical Director, Red Badger
