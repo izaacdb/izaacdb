@@ -30,16 +30,18 @@ Here are some ideas to get you started:
 >
 >  — Darian Moody, CTO, YunoJuno
 
+
 > “Izaac consistently delivered **high-quality, end-to-end features that made a tangible impact** across our projects. He would be an **excellent addition to any team**."
 >
 >  — Zahid Ahmed, Lead Developer, CDP
+
    
 > “Congratulations to everyone on the team that won this client recognition:
 > “You are the most amazing team… the **highest performing team I ever have had the pleasure to work in**…”
 > 
 >  — Ajaz Ahmed, CEO AKQA
 
-  
+
 > “This was an unusually challenging project, and we were able to **trust and rely on Izaac** to stay focused and deliver the end experience on time.”
 > 
 >  — Michael Carlisle, Group Technical Director, AKQA.
