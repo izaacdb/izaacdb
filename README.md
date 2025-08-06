@@ -26,12 +26,6 @@ Here are some ideas to get you started:
 
 #### References and reviews
 
-> “Izaac implemented an **LLM-backed pipeline** for YunoJuno, which has seen freelancer **onboarding times drastically reduced**. It was a very experimental feature and **Izaac handled it well**.”
->
->  — Darian Moody, CTO, YunoJuno
-
-<br />
-
 > “Izaac consistently delivered **high-quality, end-to-end features that made a tangible impact** across our projects. He would be an **excellent addition to any team**."
 >
 >  — Zahid Ahmed, Lead Developer, CDP
