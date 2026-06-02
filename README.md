@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 [Jackdaw Tech](https://jackdawtech.co.uk)
 
-[Book a meeting](https://calendly.com/izaac-broadbent/30min)
-
 #### References and reviews
 
 > “**Amazing work** on the hackathon app, **extremely cool!** Honestly **looks great**, I think you could **easily sell that as a standalone product**”
