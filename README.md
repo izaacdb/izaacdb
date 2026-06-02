@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 
 #### A lead full stack engineer with 15 years commercial experience and an expert in agentic AI development, building LLM-powered tools, workflows and multi-agent systems for production environments. Two time nominee for the Freelancer of the Year awards. Delivered projects for Google, Lloyds, Barclays, British Airways, the British Council, H&M and Hg Capital.
 
-[Izaac Broadbent CV](https://izaacbroadbent.com)
-
-#### Get in touch, or reach out to me at my business - Jackdaw Technology Group. 
-
-[Jackdaw Tech](https://jackdawtech.co.uk)
 
 #### References and reviews
 
