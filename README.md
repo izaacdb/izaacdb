@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-#### A lead full stack engineer with 15 years commercial experience. Two time nominee for the Freelancer of the Year awards. Delivered projects for Google, Lloyds, Barclays, British Airways, the British Council and H&M.
+#### A lead full stack engineer with 15 years commercial experience and an expert in agentic AI development, building LLM-powered tools, workflows and multi-agent systems for production environments. Two time nominee for the Freelancer of the Year awards. Delivered projects for Google, Lloyds, Barclays, British Airways, the British Council, H&M and Hg Capital.
 
 [Izaac Broadbent CV](https://izaacbroadbent.com)
 
