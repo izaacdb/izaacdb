@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-#### A lead full stack engineer with 14 years commercial experience. Two time nominee for the Freelancer of the Year awards. Delivered projects for Google, Lloyds, Barclays, British Airways, the British Council and H&M.
+#### A lead full stack engineer with 15 years commercial experience. Two time nominee for the Freelancer of the Year awards. Delivered projects for Google, Lloyds, Barclays, British Airways, the British Council and H&M.
 
 [Izaac Broadbent CV](https://izaacbroadbent.com)
 
@@ -26,7 +26,25 @@ Here are some ideas to get you started:
 
 #### References and reviews
 
-> “Izaac consistently delivered **high-quality, end-to-end features that made a tangible impact** across our projects. He would be an **excellent addition to any team**."
+> “**Amazing work** on the hackathon app, **extremely cool!** Honestly **looks great**, I think you could **easily sell that as a standalone product**”
+>
+>  — Lloyd Hilton, Head of Hg Catalyst
+
+<br />
+
+> “Izaac did a **fantastic job** while working at Relay. He improved our talent acquisition platform and rebuilt our customer-facing portal to an **exceptional standard**. The portal will serve 1M+ customers per day, and Izaac's improvements to **stability, performance and accessibility** ensure a reliable service for all of our customers. His **technical expertise, collaboration, and consistently high-quality delivery** made him an asset to our teams. **I highly recommend Izaac** and look forward to working with him again soon.”
+>
+>  — Rob Ladbrook, Director of Engineering, Relay
+
+<br />
+
+> “Izaac implemented an **LLM-backed pipeline** for YunoJuno, which has seen freelancer **onboarding times drastically reduced**. It was a very experimental feature and **Izaac handled it well**.”
+>
+>  — Darian Moody, CTO, YunoJuno
+
+<br />
+
+> “Izaac consistently delivered **high-quality, end-to-end features that made a tangible impact** across our projects. He would be an **excellent addition to any team**.”
 >
 >  — Zahid Ahmed, Lead Developer, CDP
 
