@@ -21,7 +21,7 @@ An agentic development expert with 15 years commercial experience. Focused on bu
 
 #### References and reviews
 
-> “**Amazing work** on the hackathon app, **extremely cool!** Honestly **looks great**, I think you could **easily sell that as a standalone product**”
+> "Izaac was an **exceptional** member of the team and built a **high-quality and innovative** hackathon app, which **performed seamlessly at scale**. Would thoroughly recommend!"
 >
 >  — Lloyd Hilton, Head of Hg Catalyst
 
